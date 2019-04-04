@@ -1,6 +1,6 @@
-## Massachusetts Institute of Technology (MIT) The-Analytics-Edge
+## Massachusetts Institute of Technology (MIT)
 
-![](images/.png)
+![](images/im.png)
 
 ### Overview
 
