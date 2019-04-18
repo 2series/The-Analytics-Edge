@@ -1,6 +1,6 @@
 ## Massachusetts Institute of Technology (MIT)
 
-![](images/im.png)
+![](images/op.png)
 
 ### Overview
 
