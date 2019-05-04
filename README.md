@@ -1,4 +1,4 @@
-## Massachusetts Institute of Technology (MIT)
+### Massachusetts Institute of Technology (MIT)
 
 ![](https://media.giphy.com/media/LVBiPcu6iUbMk/giphy.gif)
 
