@@ -1,6 +1,6 @@
 ## Massachusetts Institute of Technology (MIT)
 
-![](images/op.png)
+![](https://media.giphy.com/media/LVBiPcu6iUbMk/giphy.gif)
 
 ### Overview
 
